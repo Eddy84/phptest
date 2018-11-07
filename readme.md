@@ -1,7 +1,7 @@
 ## Usage instructions
-1.) run docker-composer up
-2.) open PhpMyAdmin and upload the sqldump.sql
-3.) run you tests
+- run docker-composer up
+- open PhpMyAdmin and upload the sqldump.sql
+- run you tests
 
 
 # DOCKER LEMP
