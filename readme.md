@@ -1,3 +1,9 @@
+## Usage instructions
+1.) run docker-composer up
+2.) open PhpMyAdmin and upload the sqldump.sql
+3.) run you tests
+
+
 # DOCKER LEMP
 - Nginx
 - PHP 7.2-fpm
@@ -23,3 +29,9 @@ If you change mysql credentials in .env you have to re-create mysql container:
 - Remove container and volume : `$ docker-compose rm -fv mysql`
 - Run : `docker-compose up` 
 - Re-import your database on PhpMyAdmin
+
+
+
+
+
+
